@@ -8,3 +8,7 @@
 .visited {
   background-color: bisque;
 }
+
+.flag-container img {
+  width: 100px;
+}
